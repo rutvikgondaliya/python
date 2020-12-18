@@ -1,21 +1,34 @@
-# python
-Here is a sample line of code that can be executed in Python:
+#python
+<p>
+My solutions of <strong>Hackerrank Python Domain</strong> challenges. The codes may give a head start if you are stuck somewhere! 
+</p>
+<p>
+ If you have better code (I like readable code rather than short liner), send pull request. 
+ </p>
+ <p>
+ Challenges can be found here <a href="https://www.hackerrank.com/domains/python">https://www.hackerrank.com/domains/python</a>
+</p>
+<hr>
+<b>Hackerrank Python</b>
 
-print("Hello, World!")
-You can just as easily store a string as a variable and then print it to stdout:
+![alt Hackerrank Python](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=solved&badge_type=python)
 
-my_string = "Hello, World!"
-print(my_string)
-The above code will print Hello, World! on your screen. Try it yourself in the editor below!
+<hr>
+<b>Solutions listed in Hackerrank_Python_solution</b>
 
-Input Format
 
-You do not need to read any input in this challenge.
+- Introduction
+   - [Say Hello, World! With Python](hackerrank_helloword.py)
+   - [Python If-Else](hackerrank_if-else.py)
+   - [Arithmetic Operators](hackerrank_arithmetic_operators.py)
+   - [Python: Division](hackerrank_division.py)
+   - [Loops](hackerrank_loops.py)
+  
 
-Output Format
+<hr>
 
-Print Hello, World! to stdout.
+<h3>Enjoy!</h3>
 
-Sample Output 0
+## Contact
 
-Hello, World!
+If you want to contact me you can reach me at instagram(@rutvik._.gondaliya).
