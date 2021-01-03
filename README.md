@@ -23,6 +23,7 @@ My solutions of <strong>Hackerrank Python Domain</strong> challenges. The codes 
    - [Arithmetic Operators](hackerrank_arithmetic_operators.py)
    - [Python: Division](hackerrank_division.py)
    - [Loops](hackerrank_loops.py)
+   - [List Comprehensions](hackerrank_list_comprehensions.py)
   
 
 <hr>
