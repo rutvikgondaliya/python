@@ -24,6 +24,7 @@ My solutions of <strong>Hackerrank Python Domain</strong> challenges. The codes 
    - [Python: Division](hackerrank_division.py)
    - [Loops](hackerrank_loops.py)
    - [List Comprehensions](hackerrank_list_comprehensions.py)
+   - [Find Runner-up Score!](hackerrank_find_runnerup_score.py)
   
 
 <hr>
